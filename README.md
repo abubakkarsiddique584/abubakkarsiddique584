@@ -5,6 +5,7 @@
 - 📫 How to reach me just text me on whatsapp 03456968822 ...
 
 <!---
+i also work in python,html,css,
 abubakkarsiddique584/abubakkarsiddique584 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
